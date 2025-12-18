@@ -1,6 +1,6 @@
 # Scraping Chronicling America newspaper articles via API
 
-This repository contains the complete code and usage examples for retrieving full-text newspaper articles from the [Chronicling America](https://www.loc.gov/collections/chronicling-america/about-this-collection/) database using its API. Further information on the [API services](https://www.loc.gov/apis/micro-services/text-services/) can be found on the Library of Congress website.
+This repository contains the complete code and usage examples for retrieving full-text newspaper articles from the [Chronicling America](https://www.loc.gov/collections/chronicling-america/about-this-collection/) database using its API. Further information on the API services can be found on the [Library of Congress website](https://www.loc.gov/apis/micro-services/text-services/).
 
 The scripts allow users to retrieve the full text of articles, text snippets centered on a specified keyword (highlighted), and related metadata, including a unique ID, newspaper title, location (state and city), and date of publication. The output is provided in JSON and CSV formats.
 
